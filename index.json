@@ -1,5 +1,5 @@
 // Задача №2: проверить JSON на Well formed:
-// <!-- ```json
+// <!-- ```jsonComments are not permitted in JSON.
 // {
 
 //         ""surname"": ""Иванов""
