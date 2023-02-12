@@ -4,7 +4,7 @@
 
 **Задача №1:** проверить XML на Well formed:
 
-<!-- <req>
+<req>
 
         <surname>Иванов</surname>
 
@@ -18,11 +18,12 @@
 
         <phone>8 926 766 48 48</phone>
 
-</req> -->
+</req>
 
 **Задача №2:** проверить JSON на Well formed:
 
-<!-- ```json
+```json
+
 {
 
         ""surname"": ""Иванов""
@@ -38,4 +39,4 @@
         ""phone"": ""8 926 766 48 48""
 
 }
-</aside> -->
+</aside> 
